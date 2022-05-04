@@ -1,9 +1,7 @@
-
-
 {
    "pack": {
       "pack_format": 1,
-      "description": "Texture pack for PvP"
+      "description": {"text":"Mainly PvP","bold":true,"color":"gold"}
    }
 }
 
