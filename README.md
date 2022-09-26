@@ -1,6 +1,6 @@
 # Mainly PvP
-## <span style="color:red">This resource pack requires [Optifine](https://optifine.net) to work properly!</span>
-<span style="color:red">Please note that if you don't install it, features like *custom sky*, *fullbright* and *colormap* won't work!</span>
+## This resource pack requires [Optifine](https://optifine.net) to work properly!
+Please note that if you don't install it, features like *custom sky*, *fullbright* and *colormap* won't work!
 
 ## What is Mainly PvP?
 Mainly PvP is a minecraft resourcepack made for player combat in sub 1.9 minecraft versions (mainly for **1.7.10** and **1.8.9**). The main goal for this resource pack is to still keep things *vanilla* like, while making them better :).
