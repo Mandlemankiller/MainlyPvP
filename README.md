@@ -11,6 +11,6 @@ This pack contains a lot of "*oily*" textures (wool, endstone, wood, clay etc.) 
 ### Linux:
 Dowload the .zip from releases and save it to your **~/.minecraft/resourcepacks/** folder.
 ### Windows:
-Dowload the .zip from releases and save it to your **%APPDATA%\\.minecraft** folder.
+Dowload the .zip from releases and save it to your **%APPDATA%\\.minecraft\\resourcepacks\\** folder.
 ### macOS:
-Dowload the .zip from releases and save it to your **~/Library/Application Support/minecraft** folder.
+Dowload the .zip from releases and save it to your **~/Library/Application Support/minecraft/resourcepacks/** folder.
