@@ -14,3 +14,59 @@ Dowload the .zip from releases and save it to your **~/.minecraft/resourcepacks/
 Dowload the .zip from releases and save it to your **%APPDATA%\\.minecraft\\resourcepacks\\** folder.
 ### macOS:
 Dowload the .zip from releases and save it to your **~/Library/Application Support/minecraft/resourcepacks/** folder.
+
+## What does this resourcepack contain?
+**Updated textures from 1.18.2**
+
+**Dark mode for inventories (Thanks to [Vanilla Tweaks](https://vanillatweaks.net) for the base design)**
+
+**Clean enchantment glint**
+
+**Short Swords**
+
+**Bow Release Color**
+
+**Fullbright (Optifine only)**
+
+**Custom Sky (Optifine only, thanks to [TLauncher Texture Packs](https://tlauncher.org/en/texture-packs-116_102/custom-sky-1-16-2_13282.html) for the sky images and sky properties)**
+
+Rainbow Ender Pearls
+
+Rainbow Spinning Fireballs
+
+Blockhitting Overlay
+
+Ore Borders (replacement comming soon)
+
+Red Obsidian
+
+O_O TNT
+
+Red Tripwire
+
+Winking Gapples
+
+Green Wet Sponge
+
+Custom Options Background
+
+Throw-like XP Bottles (Thanks to [Vanilla Tweaks](https://vanillatweaks.net))
+
+Blue Snowballs
+
+Removed Pumpkin Blur
+
+### Oily Textures:
+Wool
+
+Clay
+
+Destroy Animation
+
+Endstone
+
+Hardened Clay
+
+Wood
+
+Sandstone (and Red Sandstone)
