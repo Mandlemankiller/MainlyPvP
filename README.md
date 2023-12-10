@@ -28,7 +28,7 @@ Dowload the .zip from releases and save it to your **~/Library/Application Suppo
 
 **Fullbright (Optifine only)**
 
-**Custom Sky (Optifine only, thanks to [TLauncher Texture Packs](https://tlauncher.org/en/texture-packs-116_102/custom-sky-1-16-2_13282.html) for the sky images and sky properties)**
+**Custom Sky (Optifine only)**
 
 Rainbow Ender Pearls
 
